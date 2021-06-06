@@ -1,0 +1,23 @@
+#google-logo {
+    display:block;
+    margin:auto;
+    margin-top: 30%;
+}
+
+#search-form {
+    text-align: center;
+}
+#search-input{
+    width: 500px;
+    border-radius: 20px;
+    padding: 6px;
+    margin: 20px 0px 20px 0px;
+    border: 1px solid hsl(0, 1%, 69%);
+}
+.submit-button {
+    background-color: rgb(240, 240, 240);
+    margin: 0px 20px 0px 20px;
+    padding: 8px;
+    border-radius: 5px;
+    border-style:none;
+}
