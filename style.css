@@ -44,12 +44,18 @@ a {
 #search-form {
     text-align: center;
 }
-#search-input{
+.search-div {
+    display:block;
     width: 500px;
     border-radius: 20px;
     padding: 10px;
     margin: 20px 0px 20px 0px;
     border: 1px solid hsl(0, 2%, 84%);
+    margin:auto;
+}
+#search-input{
+    width: 450px;
+    border-style: none;
 }
 .submit-button {
     background-color: rgb(240, 240, 240);
