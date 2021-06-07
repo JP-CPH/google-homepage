@@ -37,12 +37,9 @@ a {
 #google-logo {
     display:block;
     margin:auto;
-    margin-top: 25%;
+    margin-top: 30vh;
 }
-#apps-logo{
-    height: 20px;
-    width: auto;
-}
+
 
 #search-form {
     text-align: center;
@@ -50,9 +47,9 @@ a {
 #search-input{
     width: 500px;
     border-radius: 20px;
-    padding: 6px;
+    padding: 10px;
     margin: 20px 0px 20px 0px;
-    border: 1px solid hsl(0, 1%, 69%);
+    border: 1px solid hsl(0, 2%, 84%);
 }
 .submit-button {
     background-color: rgb(240, 240, 240);
